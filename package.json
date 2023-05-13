@@ -1,0 +1,12 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "Simple informational page to get started with node server construction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kris S",
+  "license": "ISC",
+  "type": "module"
+}
